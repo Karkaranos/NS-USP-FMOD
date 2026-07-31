@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{534729d8-b3a6-45b7-a9d1-069571bb96b2}">
+		<property name="assetPath">
+			<value>(M-R) PHISH Ship Demo.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>96.276083333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9c54adad-27aa-4953-baf5-8ded2823ebb4}</destination>
+		</relationship>
+	</object>
+</objects>
