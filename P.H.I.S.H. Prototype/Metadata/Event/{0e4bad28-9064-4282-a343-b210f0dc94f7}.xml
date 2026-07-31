@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{0e4bad28-9064-4282-a343-b210f0dc94f7}">
 		<property name="name">
-			<value>PHISH Demo Music</value>
+			<value>demoBGM</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -53,7 +53,7 @@
 			<destination>{23c23867-fc6d-4509-a03d-fe9ed1e338e6}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0cd32db7-f58d-47ad-90b4-ec5cd6093f65}</destination>
+			<destination>{37b9bba9-a324-47c8-9e29-c4b41004ee3e}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{dc2ad67e-f809-4f42-94ca-19ededd319b4}" />
@@ -113,6 +113,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{b1910f50-e0ab-4054-ae76-feb3d17ed96f}">
+		<property name="volume">
+			<value>-11</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

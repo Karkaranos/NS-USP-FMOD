@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{3916495b-f60f-4c82-9f74-5d85f788df77}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Nonstick-Studios-Unnamed-Friendslop/Operation P.H.I.S.H. Prototype/Assets/FMOD</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{a7f407fe-8f86-4881-9063-f5f7470d7517}</destination>
 		</relationship>
